@@ -1,8 +1,7 @@
-package test6;
+package ru.ikonnikova.java.test6;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import ru.ikonnikova.java.test6.Kata;
 
 
 public class KataTest {
